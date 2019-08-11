@@ -1,4 +1,4 @@
-Dexcom Code Challenge - User Registration
+# Dexcom Code Challenge - User Registration
 
 Creating testing framework for User Registration page utilizing Capybara, Cucumber, and Selenium/Watir webdrivers.
 
