@@ -1,23 +1,28 @@
-ode Challenge - User Registration
+Dexcom Code Challenge - User Registration
 
-One Paragraph of project description goes here
+Creating testing framework for User Registration page utilizing Capybara, Cucumber, and Selenium/Watir webdrivers.
 
 ## Getting Started
 
+TBD
 
 ### Prerequisites
 
+TBD
 
 ### Installing
 
+TBD
 
-/## Running the tests
+## Running the tests
 
-/Explain how to run the automated tests for this system
+TBD
+<Explain how to run the automated tests for this system>
 
-/### Break down into end to end tests
+### Break down into end to end tests
 
-/Explain what these tests test and why
+TBD
+<Explain what these tests test and why>
 
 ## Built With
 
