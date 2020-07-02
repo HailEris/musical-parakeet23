@@ -6,7 +6,7 @@ Creating testing framework for User Registration page utilizing Capybara, Cucumb
 
 Clone the repository:
 ```
-$ git clone https://github.com/HailEris/musical-parakeet23
+$ git clone https://github.com/HailEris/CC-Dex
 ```
 
 ### Prerequisites
