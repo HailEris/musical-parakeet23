@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'watir-webdriver'
+gem 'watir'
 gem 'cucumber'
 gem 'selenium-webdriver'
 gem 'capybara'
